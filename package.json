@@ -1,0 +1,19 @@
+{
+  "name": "nameof",
+  "version": "1.0.0",
+  "description": "Use arrow functions to return property names in javascript ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstlns/nameof.git"
+  },
+  "author": "John Staelens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstlns/nameof/issues"
+  },
+  "homepage": "https://github.com/jstlns/nameof#readme"
+}
